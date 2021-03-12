@@ -11,7 +11,7 @@ public class CalculadoraVer {
 		int RESULTADO=num1+num2;
 		System.out.println(RESULTADO);
 		
-		//HOLA 22
+		//HOLA 224
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
