@@ -18,6 +18,16 @@ public class CalculadoraVer {
 		System.out.println(RESULTADO);
 		//RESTA
 	}
+	public void multi(int num1,int num2){
+		int RESULTADO=num1*num2;
+		System.out.println(RESULTADO);
+		//multi
+	}
+	public void division(int num1,int num2){
+		int RESULTADO=num1/num2;
+		System.out.println(RESULTADO);
+		//RESTA
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
